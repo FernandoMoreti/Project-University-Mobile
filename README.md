@@ -25,7 +25,7 @@ Uma aplicação mobile desenvolvida em Flutter que permite explorar o universo d
 
 | Lista de Personagens | Botão Buscar Mais | Localizações |
 | :---: | :---: | :---: |
-| ![Personagens](https://via.placeholder.com/200x400?text=Lista+Personagens) | ![Paginação](https://via.placeholder.com/200x400?text=Botão+Páginas) | ![Localizações](https://via.placeholder.com/200x400?text=Categorias) |
+| ![Personagens](https://github.com/FernandoMoreti/Project-University-Mobile/blob/main/Captura%20de%20tela%202026-04-30%20200529.png) | ![Paginação](https://github.com/FernandoMoreti/Project-University-Mobile/blob/main/Captura%20de%20tela%202026-04-30%20200704.png) | ![Localizações](https://github.com/FernandoMoreti/Project-University-Mobile/blob/main/Captura%20de%20tela%202026-04-30%20200715.png) |
 
 ---
 
