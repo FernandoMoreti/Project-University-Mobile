@@ -62,8 +62,8 @@ Uma aplicação mobile desenvolvida em Flutter que permite explorar o universo d
 
 ## 🔗 Links para Teste
 
-- **Versão Web:** [Acesse aqui o Rick and Morty Web](https://seu-projeto.web.app)
-- **Download APK:** [Baixar RickAndMorty.apk](https://link-para-seu-google-drive-ou-github-releases.com)
+- **Versão Web:** [Acesse aqui o Rick and Morty Web](https://delicate-ganache-4cad77.netlify.app)
+- **Senha do App:** My-Drop-Site
 
 ---
 
